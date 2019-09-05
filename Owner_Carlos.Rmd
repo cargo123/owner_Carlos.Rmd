@@ -1,0 +1,17 @@
+---
+title: "owner_Carlos"
+author: "Carlos A. Gonzalez"
+date: "9/5/2019"
+output: html_document
+
+
+ Name? My name is Carlos A. Gonzalez
+
+    - What do you tell people about your field of study at a party? 
+        I would tell people that I am in Mathematics with data science
+
+    - What are the three most important tools/strategies you use for organizing your work?
+         I use a planner to get organized, Have 2 to 3 hours of studying each day, I also try to complete projects early as possible.
+
+    - Interesting fact about yourself? 
+         I have two dogs named panda and sprinkles
