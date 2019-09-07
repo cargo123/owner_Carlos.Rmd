@@ -1,0 +1,48 @@
+---
+title: "owner_jenniehuxford.Rmd"
+author: "Jennie Huxford"
+date: "9/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Jennie Huxford
+
+
+What do you tell people about your field of study at a party? 
+
+I say that statistics isn't as bad as they think. 
+
+
+What are the three most important tools/strategies you use for organizing your work? 
+
+1. Writing things down in my planner.
+
+2. Making lists of things I need to do. 
+
+3. Rewriting notes after class more legibly. 
+
+Interesting fact about yourself?
+
+I want to run a half marathon in every state.
+
+
+Partners name: Carlos A. Gonzalez Github: Cargo123
+
+   + What did the Owner do in the most recent commit? What is the commit ID?
+        Add files via upload. Id: 52f831e
+    
+
+   + Knit the Owner's `owner_YourName.Rmd`. Are you able to do so without error? If you cannot, what errors did you encounter? Yes I was able to do it without any errors
+
+   + Also include one tip for making Git/GitHub easier, or an error/difficulty you encountered.  Need to practice on it 
+
+
+
+
+
+
+
