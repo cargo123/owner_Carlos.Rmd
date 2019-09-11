@@ -1,0 +1,15 @@
+---
+title: "partner_jenniehuxford"
+author: "Jennie Huxford"
+date: "9/5/2019"
+output: html_document
+---
+Partner Name- Jennie Huxford
+
+github username- huxfordjennie
+
+what did the owner do? id? 
+they made an initial commit; "add files via upload." 
+
+I'm still having a bit of difficulty with pulling and pushing. I get an error when I try to push things to my repo.       
+         
